@@ -9,6 +9,8 @@ import Overlay from '../assets/Overlay.png';
 import Reactangle157 from '../assets/Rectangle157.png';
 import Shilpa from '../assets/Shilpa.png';
 import Vijay from '../assets/Vijay.png';
+import Element from '../assets/Element.png';
+import Default from '../assets/Default.png';
 
 export default{
     Andrea,
@@ -21,5 +23,8 @@ export default{
     Overlay,
     Reactangle157,
     Shilpa,
-    Vijay
+    Vijay,
+    Element,
+    Default,
+
 };

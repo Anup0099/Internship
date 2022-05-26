@@ -1,0 +1,39 @@
+.upcoming-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+
+  color: #fff;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: stretch;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.upcoming-title h1:after {
+  height: 6px;
+  display: block;
+  width: 80px;
+  background: blue;
+  border-right: 1px solid blue;
+  content: "";
+}
+
+.upcoming-title h2 {
+  color: #ffe600d4;
+}
+.upcoming-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+  padding-left: 80px;
+  padding-right: 80px;
+  
+}
