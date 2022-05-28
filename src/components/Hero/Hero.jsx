@@ -6,7 +6,7 @@ const Hero = () => {
     <div className="hero">
         <div className="hero-section"> 
             <h1>Cari Cari</h1>
-            <p>Live from their sofa to yours , Get closer to your favourite artists and never miss out</p>
+            <p>Live from their sofa to yours , Get closer to your favourite artists<br /> and never miss out</p>
         </div>
         <div className="hero-icons" >
              
