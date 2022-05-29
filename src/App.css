@@ -9,3 +9,10 @@
   background-size:cover;
   background-position:center;
 }
+.carousel{
+
+   display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+  overflow-x:scroll;
+}
