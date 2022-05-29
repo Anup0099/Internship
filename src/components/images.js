@@ -11,6 +11,8 @@ import Shilpa from '../assets/Shilpa.png';
 import Vijay from '../assets/Vijay.png';
 import Element from '../assets/Element.png';
 import Default from '../assets/Default.png';
+import Us from '../assets/Us.png';
+import fran from '../assets/fran.png'
 
 export default{
     Andrea,
@@ -26,5 +28,7 @@ export default{
     Vijay,
     Element,
     Default,
+    Us,
+    fran,
 
 };
